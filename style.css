@@ -1,0 +1,27 @@
+span{
+    display: block;
+    border-color: red;
+    border: 20px double rgb(25, 0, 255);
+    border-radius: 40px;
+    text-align: center;
+    font-size: xx-large;
+    
+    }
+    h1{
+        background-color: bisque;
+        border-radius: 35px;
+        border-color: rgb(179, 255, 0);
+        padding: 10px;
+        text-align: center;
+    
+    }
+    p{
+        color: rgb(0, 195, 255);
+        text-align: justify;
+    }
+    h2{
+        color: rgb(226, 19, 245);
+        ;background-color: rgb(43, 226, 104);
+        border-radius: 40px;
+        text-align: center;
+    }
