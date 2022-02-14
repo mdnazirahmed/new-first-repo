@@ -31,4 +31,7 @@ span{
         background-color: skyblue;
         border-radius: 40px;
         border-color: rgb(230, 186, 10);
+        font-size: xx-large;
+        text-align: center;
+        text-decoration: dotted red;
     }
