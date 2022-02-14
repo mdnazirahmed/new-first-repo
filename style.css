@@ -25,3 +25,10 @@ span{
         border-radius: 40px;
         text-align: center;
     }
+    #check{
+        font-size: 1ch;
+        color: rebeccapurple;
+        background-color: skyblue;
+        border-radius: 40px;
+        border-color: rgb(230, 186, 10);
+    }
